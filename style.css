@@ -1,0 +1,82 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.first{
+    height: 700px;
+    width: 100vw;
+    background-color: rgb(111, 155, 170);
+    position: relative;
+}
+.cloud1{
+position: absolute;
+top: 50%;
+}
+.cloud2{
+    position: absolute;
+    left: 75%;
+    top: 5%;
+}
+.ama{
+    text-align: center;
+    padding-top: 1em;
+    font-family:sacramento ;
+    font-size: 6em;
+    color: rgb(14, 90, 82)
+}
+h2{
+    text-align: center;
+    padding-top: 3em;
+    color: rgb(14, 90, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    position: relative;
+    bottom: 50px;
+}
+.mountain{
+text-align: center;
+margin-top: 90px;
+}
+.second{
+      text-align: center;
+}
+.second img{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    position: relative;
+    left: 39%;
+    bottom: 20px;
+}
+hr{
+    position: absolute;
+    left: 900px;
+    width: 6%;
+    border-style: dotted;
+}
+h1{
+    text-align: center;
+    color: rgb(14, 90, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 3em;
+}
+.article{
+    display: flexbox;
+    text-align: center;
+    position: relative;
+
+}
+.line1{
+    background: none;
+    height: 5px;
+    background-color: black;
+    width: 35%;
+    position: absolute;
+    right: 30px;
+}
